@@ -1,6 +1,18 @@
 [![HEADER](https://github.com/aygulyWeb/aygulyQA/blob/main/assets/qa.png)]
 
-ABOUT 
+## Hello! 
+I'm a motivated and detail-oriented QA specialist with hands-on experience in software testing. I have successfully completed a QA course where I gained practical knowledge of testing methodologies, test documentation, bug reporting, and working with tools such as Jira, TestRail, and Postman.
+
+I'm passionate about quality and enjoy analyzing systems to make them better. I'm confident in writing test cases, executing tests, and reporting bugs clearly and efficiently.
+
+I'm currently looking for opportunities to grow as a QA engineer and contribute to product quality in a collaborative team environment.
+
+## Здравствуйте!
+Я — целеустремлённый и внимательный к деталям специалист по тестированию (QA). Я окончила курсы по QA, где получила практические знания по методологиям тестирования, написанию тестовой документации, оформлению баг-репортов, а также работе с инструментами вроде Jira, TestRail и Postman.
+
+Мне нравится заботиться о качестве продукта и анализировать системы, чтобы делать их лучше. Уверенно пишу тест-кейсы, провожу тестирование и оформляю баги в понятной и структурированной форме.
+
+В настоящий момент ищу возможности развиваться в роли QA-инженера и вносить вклад в качество продукта в команде профессионалов.
 
 LATEST TASKS
 
