@@ -1,6 +1,7 @@
-[![HEADER](https://github.com/aygulyWeb/aygulyQA/blob/main/assets/qa.png)]
+![HEADER](https://github.com/aygulyWeb/aygulyQA/blob/main/assets/qa2.png)
 
-## Hello! 
+## ABOUT ME 
+Hello! 
 I'm a motivated and detail-oriented QA specialist with hands-on experience in software testing. I have successfully completed a QA course where I gained practical knowledge of testing methodologies, test documentation, bug reporting, and working with tools such as Jira, TestRail, and Postman.
 
 I'm passionate about quality and enjoy analyzing systems to make them better. I'm confident in writing test cases, executing tests, and reporting bugs clearly and efficiently.
@@ -14,13 +15,16 @@ I'm currently looking for opportunities to grow as a QA engineer and contribute 
 
 В настоящий момент ищу возможности развиваться в роли QA-инженера и вносить вклад в качество продукта в команде профессионалов.
 
-## 
+## TOOLS 
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-orange)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-85ea2d)
 ![JIRA](https://img.shields.io/badge/-JIRA-blue)
 
-LANGUGES
+## LANGUGES
 
 ![SQL](https://img.shields.io/badge/-SQL-8A2BE2)
 
-FOLLOW ME
+## CONTACT ME
+
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/aygul-tilepova/) 
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-blue)](https://www.t.me/ayguly_t)
