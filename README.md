@@ -1,4 +1,4 @@
-![HEADER(https://github.com/aygulyWeb/aygulyQA/blob/main/assets/qa.png)]
+[![HEADER](https://github.com/aygulyWeb/aygulyQA/blob/main/assets/qa.png)]
 
 ABOUT 
 
