@@ -14,8 +14,13 @@ I'm currently looking for opportunities to grow as a QA engineer and contribute 
 
 В настоящий момент ищу возможности развиваться в роли QA-инженера и вносить вклад в качество продукта в команде профессионалов.
 
-LATEST TASKS
+## 
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-orange)
+![SWAGGER](https://img.shields.io/badge/-SWAGGER-85ea2d)
+![JIRA](https://img.shields.io/badge/-JIRA-blue)
 
 LANGUGES
+
+![SQL](https://img.shields.io/badge/-SQL-8A2BE2)
 
 FOLLOW ME
