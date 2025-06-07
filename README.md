@@ -1,1 +1,9 @@
-# aygulyQA
+HEADER 
+
+ABOUT 
+
+LATEST TASKS
+
+LANGUGES
+
+FOLLOW ME
